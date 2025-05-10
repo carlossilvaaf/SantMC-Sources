@@ -1,4 +1,4 @@
-#SantMC Sources
+# SantMC Sources
 Este repositório contém os códigos-fonte dos sistemas utilizados na rede SantMC, baseados no antigo projeto kPlugins.
 
 Funcionalidades incluídas:
